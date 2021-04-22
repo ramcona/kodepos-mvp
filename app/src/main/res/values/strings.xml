@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AKode Pos</string>
+    <string name="pilih_aplikasi">Pilih Aplikasi</string>
+    <string name="hasil_pencarian_kode_pos_s">Hasil Pencarian Kode Pos %s</string>
+    <string name="buka_di_maps">Buka Map</string>
+    <string name="masukan_kode_pos">Masukan Kode Pos</string>
+    <string name="tidak_ada_hasil_pencarian_kode_pos_s">Tidak ada hasil pencarian kode pos %s</string>
+    <string name="tidak_ada_data_kode_pos_tersimpan">Tidak ada data kode pos tersimpan</string>
+</resources>
